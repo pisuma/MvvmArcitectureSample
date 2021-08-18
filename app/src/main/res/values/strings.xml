@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MvvmArcitectureSample</string>
+    <string name="book_title">タイトル</string>
+    <string name="book_amount">値段</string>
+</resources>
